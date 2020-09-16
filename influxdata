@@ -3,20 +3,16 @@
     "key_as_string":"2020-09-08T15:05:00.000+05:30",
     "key":1599557700000,
     "doc_count":3,
-    "packetsum": 
-    {
+    "packetsum":  {
       "value":44
     },
-    "durationsum":
-    {
+    "durationsum":  {
       "value":2
     },
-    "bytessum":
-    {
+    "bytessum": {
       "value":13869
     },
-    "missedbytesum":
-    {
+    "missedbytesum":  {
       "value":0
     }
   },
@@ -24,20 +20,16 @@
     "key_as_string":"2020-09-08T15:10:00.000+05:30"
     "key":1599558000000,
     "doc_count":5,
-    "packetsum":
-    {
+    "packetsum":  {
       "value":59
     },
-    "durationsum":
-    {
+    "durationsum":  {
       "value":10
     },
-    "bytessum":
-    {
+    "bytessum": {
       "value":5969
     },
-    "missedbytesum":
-    {
+    "missedbytesum":  {
       "value":0
     }
   },
@@ -45,20 +37,16 @@
     "key_as_string":"2020-09-08T15:15:00.000+05:30",
     "key":1599558300000,
     "doc_count":4,
-    "packetsum":
-    {
+    "packetsum":  {
       "value":61
     },
-    "durationsum":
-    {
+    "durationsum":  {
       "value":20
     },
-    "bytessum":
-    {
+    "bytessum": {
       "value":6509
     },
-    "missedbytesum":
-    {
+    "missedbytesum":  {
       "value":0
     }
   },
@@ -66,20 +54,16 @@
     "key_as_string":"2020-09-08T15:20:00.000+05:30",
     "key":1599558600000,
     "doc_count":4,
-    "packetsum":
-    {
+    "packetsum":  {
       "value":83
     },
-    "durationsum":
-    {
+    "durationsum":  {
       "value":6
     },
-    "bytessum":
-    {
+    "bytessum": {
       "value":10205
     },
-    "missedbytesum":
-    {
+    "missedbytesum":  {
       "value":0
     }
   },
@@ -87,20 +71,16 @@
     "key_as_string":"2020-09-08T15:25:00.000+05:30",
     "key":1599558900000,
     "doc_count":2,
-    "packetsum":
-    {
+    "packetsum":  {
       "value":36
     },
-    "durationsum":
-    {
+    "durationsum":  {
       "value":122
     },
-    "bytessum":
-    {
+    "bytessum": {
       "value":12744
     },
-    "missedbytesum":
-    {
+    "missedbytesum":  {
       "value":0
     }
   },
@@ -108,20 +88,16 @@
     "key_as_string":"2020-09-08T15:30:00.000+05:30",
     "key":1599559200000,
     "doc_count":4,
-    "packetsum":
-    {
+    "packetsum":  {
       "value":35
     },
-    "durationsum":
-    {
+    "durationsum":  {
       "value":43
     },
-    "bytessum":
-    {
+    "bytessum": {
       "value":1980
     },
-    "missedbytesum":
-    {
+    "missedbytesum":  {
       "value":0
     }
   },
@@ -129,20 +105,16 @@
     "key_as_string":"2020-09-08T15:35:00.000+05:30",
     "key":1599559500000,
     "doc_count":1,
-    "packetsum":
-    {
+    "packetsum":  {
       "value":17
     },
-    "durationsum":
-    {
+    "durationsum":  {
       "value":2
     },
-    "bytessum":
-    {
+    "bytessum": {
       "value":1120
     },
-    "missedbytesum":
-    {
+    "missedbytesum":  {
       "value":0
     }
   },
@@ -150,20 +122,16 @@
     "key_as_string":"2020-09-08T15:40:00.000+05:30",
     "key":1599559800000,
     "doc_count":14,
-    "packetsum":
-    {
+    "packetsum":  {
       "value":72
     },
-    "durationsum":
-    {
+    "durationsum":  {
       "value":127
     },
-    "bytessum":
-    {
+    "bytessum": {
       "value":14644
     },
-    "missedbytesum":
-    {
+    "missedbytesum":  {
       "value":0
     }
   },
@@ -171,20 +139,16 @@
     "key_as_string":"2020-09-08T15:45:00.000+05:30",
     "key":1599560100000,
     "doc_count":10,
-    "packetsum":
-    {
+    "packetsum":  {
       "value":54
     },
-    "durationsum":
-    {
+    "durationsum":  {
       "value":138
     },
-    "bytessum":
-    {
+    "bytessum": {
       "value":13488
     },
-    "missedbytesum":
-    {
+    "missedbytesum":  {
       "value":0
     }
   },
@@ -192,20 +156,16 @@
     "key_as_string":"2020-09-08T15:50:00.000+05:30",
     "key":1599560400000,
     "doc_count":5,
-    "packetsum":
-    {
+    "packetsum":  {
       "value":92
     },
-    "durationsum":
-    {
+    "durationsum":  {
       "value":83
     },
-    "bytessum":
-    {
+    "bytessum": {
       "value":12030
     },
-    "missedbytesum":
-    {
+    "missedbytesum":  {
       "value":0
     }
   },
@@ -213,20 +173,16 @@
     "key_as_string":"2020-09-08T15:55:00.000+05:30",
     "key":1599560700000,
     "doc_count":5,
-    "packetsum":
-    {
+    "packetsum":  {
       "value":72
     },
-    "durationsum":
-    {
+    "durationsum":  {
       "value":5
     },
-    "bytessum":
-    {"
-      value":9422
+    "bytessum": {
+      "value":9422
     },
-    "missedbytesum":
-    {
+    "missedbytesum":  {
       "value":0
     }
   },
@@ -234,20 +190,16 @@
     "key_as_string":"2020-09-08T16:00:00.000+05:30",
     "key":1599561000000,
     "doc_count":16,
-    "packetsum":
-    {
+    "packetsum":  {
       "value":381
     },
-    "durationsum":
-    {
+    "durationsum":  {
       "value":208
     },
-    "bytessum":
-    {
+    "bytessum": {
       "value":74480
     },
-    "missedbytesum":
-    {
+    "missedbytesum":  {
       "value":0
     }
   },
@@ -255,20 +207,16 @@
     "key_as_string":"2020-09-08T16:05:00.000+05:30",
     "key":1599561300000,
     "doc_count":21,
-    "packetsum":
-    {
+    "packetsum":  {
       "value":512
     },
-    "durationsum":
-    {
+    "durationsum":  {
       "value":8
     },
-    "bytessum":
-    {
+    "bytessum": {
       "value":86196
     },
-    "missedbytesum":
-    {
+    "missedbytesum":  {
       "value":0
     }
   }
